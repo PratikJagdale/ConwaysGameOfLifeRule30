@@ -1,0 +1,1 @@
+# ConwaysGameOfLifeRule30
